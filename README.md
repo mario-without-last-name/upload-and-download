@@ -1,4 +1,4 @@
-# Upload and Downloading Excel Files (+ CRUD on <DataTable>)
+# Upload and Downloading Excel Files (+ CRUD on < DataTable > Component)
 
 ---
 
